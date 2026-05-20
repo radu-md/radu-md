@@ -1,26 +1,26 @@
-# Hi there, I'm Romulus Radu 👋
+# Hi there, I'm Radu 👋
 
-Senior Web Developer with 20+ years of experience in web development and project management, focused on building reliable, scalable, and high-quality solutions for real-world business needs.
+I'm a Senior Web Developer with 20+ years of experience in web development and project management, focused on building reliable, scalable, and maintainable solutions.
 
 ## About Me
 
-I leverage extensive experience across software development and delivery to create effective solutions for a variety of clients.
+My background is centered around **ASP.NET MVC** and **.NET Core Web API**, with solid experience in designing, developing, and supporting modern web applications and backend systems.
 
-My background is centered around **ASP.NET MVC** and **.NET Core Web API**, with strong experience in designing, developing, and maintaining modern web applications and backend systems.
+Over the years, I have worked with a wide range of technologies and contributed to solutions that value stability, performance, and long-term maintainability.
 
 ## Tech Stack
 
-- **Backend:** C#, ASP.NET MVC, .NET Core Web API
+- **Languages & Frameworks:** C#, ASP.NET MVC, .NET Core Web API
 - **Database:** MS SQL
 - **Search & Messaging:** Solr, RabbitMQ
 - **Caching & Performance:** Redis
 
-## What I Focus On
+## What I Value
 
-- Building maintainable and scalable web applications
-- Delivering practical solutions with long-term value
-- Combining technical expertise with project and product understanding
-- Writing software that is clean, efficient, and dependable
+- Clean and maintainable code
+- Scalable application architecture
+- Practical solutions to real business needs
+- Continuous improvement and professional growth
 
 ## Connect With Me
 
