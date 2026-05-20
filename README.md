@@ -6,7 +6,9 @@ I'm a Senior Web Developer with 20+ years of experience in web development, focu
 
 My background is centered around **ASP.NET MVC** and **.NET Core Web API**, with solid experience in designing, developing, and supporting modern web applications and backend systems.
 
-Over the years, I have worked with a wide range of technologies and contributed to solutions that value stability, performance, and long-term maintainability.
+I also have experience in **software design**, including structuring maintainable applications, improving code quality, and shaping practical solutions that balance technical and business needs.
+
+In recent years, I have also worked with **AI integration using Semantic Kernel** and explored **AI adoption in software development** with tools such as **GitHub Copilot** and **Claude Code**.
 
 ## Tech Stack
 
@@ -14,6 +16,8 @@ Over the years, I have worked with a wide range of technologies and contributed 
 - **Database:** MS SQL
 - **Search & Messaging:** Solr, RabbitMQ
 - **Caching & Performance:** Redis
+- **AI Integration:** Semantic Kernel
+- **Developer Productivity:** GitHub Copilot, Claude Code
 
 ## What I Value
 
