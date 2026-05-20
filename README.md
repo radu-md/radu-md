@@ -1,6 +1,6 @@
 # Hi there, I'm Radu 👋
 
-I'm a Senior Web Developer with 20+ years of experience in web development and project management, focused on building reliable, scalable, and maintainable solutions.
+I'm a Senior Web Developer with 20+ years of experience in web development, focused on building reliable, scalable, and maintainable solutions.
 
 ## About Me
 
