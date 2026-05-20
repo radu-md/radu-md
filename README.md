@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Romulus Radu 👋
 
-<!--
-**radu-md/radu-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, continuous learning, and building meaningful digital solutions.
 
-Here are some ideas to get you started:
+## About Me
+- Motivated and curious developer
+- Interested in software development, problem-solving, and modern technologies
+- Always looking for opportunities to grow and improve
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Interests
+- Software Engineering
+- Web Development
+- Automation and productivity tools
+- Learning new frameworks and technologies
+
+## Currently
+- Building my skills through hands-on projects
+- Exploring new tools, technologies, and best practices
+- Growing my professional presence on GitHub
+
+## Connect with Me
+- GitHub: [@radu-md](https://github.com/radu-md)
+- LinkedIn: [Romulus Radu](https://www.linkedin.com/in/romulus-radu-m-0248b2283/)
+
+Thanks for visiting my profile — feel free to explore my repositories and connect with me.
