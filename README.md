@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about technology, continuous learni
 - Learning new frameworks and technologies
 
 ## Currently
-- Building my skills through hands-on projects
+- Developing software and exploring modern technologies
 - Exploring new tools, technologies, and best practices
 - Growing my professional presence on GitHub
 
