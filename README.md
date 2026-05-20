@@ -1,14 +1,16 @@
 # Hi there, I'm Radu 👋
 
-I'm a Senior Web Developer with 20+ years of experience in web development, focused on building reliable, scalable, and maintainable solutions.
+Senior Web Developer with 20+ years of experience delivering web applications and backend systems, with a strong focus on maintainability, scalability, and practical software design.
 
 ## About Me
 
-My background is centered around **ASP.NET MVC** and **.NET Core Web API**, with solid experience in designing, developing, and supporting modern web applications and backend systems.
+My core background is in **ASP.NET MVC** and **.NET Core Web API**, with extensive experience building, evolving, and supporting business-critical applications.
 
-I also have experience in **software design**, including structuring maintainable applications, improving code quality, and shaping practical solutions that balance technical and business needs.
+I have worked across both implementation and solution design, helping shape applications that are not only functional, but also stable, maintainable, and aligned with long-term business goals.
 
-In recent years, I have also worked with **AI integration using Semantic Kernel** and explored **AI adoption in software development** with tools such as **GitHub Copilot** and **Claude Code**.
+My experience also includes **software design and application architecture**, with attention to code quality, system structure, and sustainable development practices.
+
+In addition, I have explored **AI integration with Semantic Kernel** and the use of **AI-assisted development tools** such as **GitHub Copilot** and **Claude Code** to support productivity and delivery.
 
 ## Tech Stack
 
@@ -19,12 +21,12 @@ In recent years, I have also worked with **AI integration using Semantic Kernel*
 - **AI Integration:** Semantic Kernel
 - **Developer Productivity:** GitHub Copilot, Claude Code
 
-## What I Value
+## What I Focus On
 
-- Clean and maintainable code
-- Scalable application architecture
-- Practical solutions to real business needs
-- Continuous improvement and professional growth
+- Maintainable and scalable application design
+- Clean architecture and code quality
+- Reliable solutions for real business needs
+- Long-term technical sustainability
 
 ## Connect With Me
 
