@@ -1,4 +1,4 @@
-# Hi there, I'm Romulus Radu 👋
+# Hi there, I'm Radu 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, continuous learning, and building meaningful digital solutions.
 
