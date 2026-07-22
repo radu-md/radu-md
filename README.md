@@ -1,4 +1,4 @@
-# Hi there, I'm Radu 👋
+# Hi, I'm Radu 👋
 
 **Senior Web Developer** · 20+ years of experience<br>
 ASP.NET MVC · .NET Core Web API
